@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "quarto",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "John Kilbride",
+    "section": "",
+    "text": "I am a remote sensing scientist that specializes in mapping and monitoring forest ecosystems."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "John Kilbride",
+    "section": "Education",
+    "text": "Education\nOregon State Unversity\nPhD in Geography\nSept 2018 - Aug 2023\nUniversity of Maine\nM.S. in Forest Science\nAug 2016 - Aug 2018\nUniversity of Vermont\nB.A in Geographty\nSept 2012 - June 2016"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "John Kilbride",
+    "section": "Experience",
+    "text": "Experience\nRenoster Systems | Remote Sensing Scientist | AUG 2023 - Present"
+  },
+  {
+    "objectID": "about.html#employment",
+    "href": "about.html#employment",
+    "title": "John Kilbride",
+    "section": "Employment",
+    "text": "Employment\nRemote Sensing Scientist\nRenoster Systems\nAug 2023 - Present"
+  }
+]

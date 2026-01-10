@@ -1,0 +1,54 @@
+---
+title: "John Kilbride"
+about:
+  template: trestles
+  image: images/profile.png
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/john-kilbride-326623209/
+    - icon: github
+      text: Github
+      href: https://github.com/JohnKilbride
+    - icon: google
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=WBeNszAAAAAJ&hl=en
+---
+
+I am a remote sensing scientist that specializes in mapping and monitoring forest ecosystems. 
+
+## Education
+
+**Oregon State Unversity** \
+PhD in Geography \
+Sept 2018 - Aug 2023
+
+**University of Maine** \
+M.S. in Forest Science \
+Aug 2016 - Aug 2018
+
+**University of Vermont** \
+B.A in Geography \
+Sept 2012 - June 2016
+
+## Employment
+
+**Remote Sensing Scientist** \
+Renoster Systems \
+Aug 2023 - Present
+
+**Research Assistant** \
+Oregon State University \
+Aug 2023 - Present
+
+**Consulting** \
+Spatial Infomatics Group \
+Aug 2023 - Present
+
+**Consulting** \
+Pachama Inc. \
+Aug 2023 - Present
+
+**UVM Spatial Analysis Lab** \
+Oregon State University \
+Aug 2023 - Present
