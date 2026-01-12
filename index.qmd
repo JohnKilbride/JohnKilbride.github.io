@@ -1,7 +1,38 @@
 ---
-title: "quarto"
+title: "Welcome"
+page-layout: full
+title-block-banner: true
 ---
 
-This is a Quarto website.
+::: {.grid}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+::: {.g-col-12 .g-col-md-8}
+## Remote Sensing Scientist
+
+I specialize in mapping and monitoring forest ecosystems using advanced remote sensing technologies and geospatial analysis. My work focuses on understanding forest dynamics, carbon cycling, and ecosystem responses to environmental change.
+
+### Research Focus
+
+- **Forest Ecosystem Monitoring**: Leveraging satellite imagery and LiDAR data to track forest structure and composition
+- **Carbon Science**: Quantifying forest carbon stocks and understanding carbon dynamics in terrestrial ecosystems
+- **Geospatial Analysis**: Developing innovative methods for analyzing large-scale environmental datasets
+- **Climate Change Impacts**: Investigating how forests respond to changing environmental conditions
+
+### Current Work
+
+As a Remote Sensing Scientist at Renoster Systems and Research Assistant at Oregon State University, I develop cutting-edge approaches for monitoring forest ecosystems at scale. I also provide consulting services through Spatial Informatics Group and Pachama Inc., applying remote sensing expertise to real-world conservation and climate challenges.
+
+:::
+
+::: {.g-col-12 .g-col-md-4}
+![](images/profile.png){.rounded fig-alt="John Kilbride" width=300}
+
+<div class="text-center">
+[Science News](science-news.qmd){.btn .btn-primary .btn-lg role="button"}
+[Projects](projects.qmd){.btn .btn-outline-primary .btn-lg role="button"}
+[About](about.qmd){.btn .btn-outline-secondary .btn-lg role="button"}
+</div>
+
+:::
+
+:::
