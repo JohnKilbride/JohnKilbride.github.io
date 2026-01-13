@@ -1,0 +1,91 @@
+---
+title: "Science News"
+title-block-banner: true
+---
+
+## Latest Updates from Remote Sensing and Forest Science
+
+This page highlights recent developments and interesting findings in remote sensing, forest ecology, and climate science relevant to my research interests.
+
+---
+
+### Featured Topics
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+#### Carbon Monitoring & Climate
+
+Stay updated on the latest advances in forest carbon quantification, satellite-based monitoring systems, and their applications in climate change mitigation strategies.
+
+**Recent Areas of Interest:**
+
+- Satellite-based carbon monitoring systems
+- Forest carbon stock assessments
+- Climate policy and carbon markets
+- Verification and validation methods
+:::
+
+::: {.g-col-12 .g-col-md-6}
+#### Remote Sensing Technology
+
+Explore cutting-edge developments in remote sensing platforms and methodologies, from LiDAR innovations to new satellite missions and analytical approaches.
+
+**Recent Areas of Interest:**
+
+- Multi-sensor fusion techniques
+- Time-series analysis methods
+- Machine learning in remote sensing
+- New satellite missions and capabilities
+:::
+
+::: {.g-col-12 .g-col-md-6}
+#### Forest Ecosystem Dynamics
+
+Discover new insights into how forests grow, change, and respond to environmental stressors, from local management practices to global climate patterns.
+
+**Recent Areas of Interest:**
+
+- Forest disturbance and recovery
+- Biodiversity monitoring
+- Ecosystem services valuation
+- Sustainable forest management
+:::
+
+::: {.g-col-12 .g-col-md-6}
+#### Open Science & Data
+
+Follow developments in open data initiatives, reproducible research practices, and collaborative platforms that are transforming environmental science.
+
+**Recent Areas of Interest:**
+
+- Cloud-based analysis platforms
+- Open-source tools and software
+- Data sharing initiatives
+- Reproducible workflows
+:::
+
+:::
+
+---
+
+### Resources
+
+**Scientific Journals I Follow:**
+
+- Remote Sensing of Environment
+- Global Change Biology
+- Forest Ecology and Management
+- Journal of Geophysical Research: Biogeosciences
+- Environmental Research Letters
+
+**Useful Platforms:**
+
+- [Google Earth Engine](https://earthengine.google.com/)
+- [NASA Earthdata](https://earthdata.nasa.gov/)
+- [Copernicus Open Access Hub](https://scihub.copernicus.eu/)
+- [Global Forest Watch](https://www.globalforestwatch.org/)
+
+---
+
+*This page will be updated periodically with noteworthy publications, announcements, and developments in the field.*

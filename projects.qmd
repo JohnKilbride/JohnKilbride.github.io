@@ -1,0 +1,87 @@
+---
+title: "Projects"
+title-block-banner: true
+---
+
+## Research & Professional Projects
+
+Below are some of the key projects I've worked on in remote sensing, forest ecology, and geospatial analysis.
+
+---
+
+### Research Projects
+
+::: {.card .mb-3}
+#### Forest Carbon Mapping
+
+Developing methods for accurate assessment of forest carbon stocks using multi-sensor remote sensing data. This work combines LiDAR, optical imagery, and field measurements to create robust carbon estimation models.
+
+**Key Contributions:**
+
+- Integration of multiple remote sensing platforms
+- Validation of carbon estimates across diverse forest types
+- Development of scalable analysis workflows
+
+**Technologies:** LiDAR, Landsat, Sentinel-2, Google Earth Engine, R
+:::
+
+::: {.card .mb-3}
+#### Ecosystem Monitoring Systems
+
+Creating automated systems for tracking forest health, disturbance, and recovery patterns using time-series satellite imagery and machine learning approaches.
+
+**Key Contributions:**
+
+- Real-time forest change detection
+- Automated disturbance classification
+- Long-term trend analysis
+
+**Technologies:** Sentinel-2, MODIS, Python, Cloud computing
+:::
+
+::: {.card .mb-3}
+#### Geospatial Analysis Frameworks
+
+Building open-source tools and workflows for large-scale environmental data analysis, focusing on reproducibility and accessibility.
+
+**Key Contributions:**
+
+- Open-source software development
+- Documented analytical pipelines
+- Educational resources and tutorials
+
+**Technologies:** R, Python, GDAL, PostgreSQL/PostGIS
+:::
+
+---
+
+### Selected Publications
+
+My research has been published in peer-reviewed journals focusing on remote sensing, forest ecology, and carbon science. For a complete list of publications, please visit my [Google Scholar profile](https://scholar.google.com/citations?user=WBeNszAAAAAJ&hl=en).
+
+---
+
+### Consulting Work
+
+Through my consulting roles with Spatial Informatics Group and Pachama Inc., I work on applied projects that bridge research and practical applications in:
+
+- Forest carbon verification and monitoring
+- Sustainable forest management planning
+- Environmental impact assessments
+- Custom geospatial analysis solutions
+
+---
+
+### Tools & Technologies
+
+**Programming Languages:** R, Python, JavaScript
+
+**Remote Sensing Platforms:** Google Earth Engine, ENVI, QGIS, ArcGIS
+
+**Data Analysis:** Machine learning, time-series analysis, spatial statistics
+
+**Cloud Computing:** AWS, Google Cloud Platform
+
+---
+
+*Interested in collaboration? Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/john-kilbride-326623209/) or [GitHub](https://github.com/JohnKilbride).*

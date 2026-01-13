@@ -2,18 +2,35 @@ project:
   type: website
 
 website:
-  title: "quarto"
+  title: "John Kilbride"
   navbar:
+    background: primary
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: science-news.qmd
+        text: Science News
+      - href: projects.qmd
+        text: Projects
+      - href: about.qmd
+        text: About
+    right:
+      - icon: github
+        href: https://github.com/JohnKilbride
+      - icon: linkedin
+        href: https://www.linkedin.com/in/john-kilbride-326623209/
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
+    toc-location: left
+    page-layout: article
+    grid:
+      sidebar-width: 250px
+      body-width: 900px
+      margin-width: 250px
 
 
 
