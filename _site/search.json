@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "quarto",
+    "title": "Welcome",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "I specialize in mapping and monitoring forest ecosystems using advanced remote sensing technologies and geospatial analysis. My work focuses on understanding forest dynamics, carbon cycling, and ecosystem responses to environmental change.\n\n\n\nForest Ecosystem Monitoring: Leveraging satellite imagery and LiDAR data to track forest structure and composition\nCarbon Science: Quantifying forest carbon stocks and understanding carbon dynamics in terrestrial ecosystems\nGeospatial Analysis: Developing innovative methods for analyzing large-scale environmental datasets\nClimate Change Impacts: Investigating how forests respond to changing environmental conditions\n\n\n\n\nAs a Remote Sensing Scientist at Renoster Systems and Research Assistant at Oregon State University, I develop cutting-edge approaches for monitoring forest ecosystems at scale. I also provide consulting services through Spatial Informatics Group and Pachama Inc., applying remote sensing expertise to real-world conservation and climate challenges.\n\n\n\n\n\nScience News Hobby Projects About"
   },
   {
     "objectID": "about.html",
@@ -18,7 +18,7 @@
     "href": "about.html#education",
     "title": "John Kilbride",
     "section": "Education",
-    "text": "Education\nOregon State Unversity\nPhD in Geography\nSept 2018 - Aug 2023\nUniversity of Maine\nM.S. in Forest Science\nAug 2016 - Aug 2018\nUniversity of Vermont\nB.A in Geographty\nSept 2012 - June 2016"
+    "text": "Education\nOregon State Unversity\nPhD in Geography\nSept 2018 - Aug 2023\nUniversity of Maine\nM.S. in Forest Science\nAug 2016 - Aug 2018\nUniversity of Vermont\nB.A in Geography\nSept 2012 - June 2016"
   },
   {
     "objectID": "about.html#experience",
@@ -32,6 +32,41 @@
     "href": "about.html#employment",
     "title": "John Kilbride",
     "section": "Employment",
-    "text": "Employment\nRemote Sensing Scientist\nRenoster Systems\nAug 2023 - Present"
+    "text": "Employment\nRemote Sensing Scientist\nRenoster Systems\nAug 2023 - Present\nResearch Assistant\nOregon State University\nAug 2023 - Present\nConsulting\nSpatial Infomatics Group\nAug 2023 - Present\nConsulting\nPachama Inc. \nAug 2023 - Present\nUVM Spatial Analysis Lab\nOregon State University\nAug 2023 - Present"
+  },
+  {
+    "objectID": "science-news.html",
+    "href": "science-news.html",
+    "title": "Science News",
+    "section": "",
+    "text": "This page highlights recent developments and interesting findings in remote sensing, forest ecology, and climate science relevant to my research interests.\n\n\n\n\n\n\nStay updated on the latest advances in forest carbon quantification, satellite-based monitoring systems, and their applications in climate change mitigation strategies.\nRecent Areas of Interest:\n\nSatellite-based carbon monitoring systems\nForest carbon stock assessments\nClimate policy and carbon markets\nVerification and validation methods\n\n\n\n\nExplore cutting-edge developments in remote sensing platforms and methodologies, from LiDAR innovations to new satellite missions and analytical approaches.\nRecent Areas of Interest:\n\nMulti-sensor fusion techniques\nTime-series analysis methods\nMachine learning in remote sensing\nNew satellite missions and capabilities\n\n\n\n\nDiscover new insights into how forests grow, change, and respond to environmental stressors, from local management practices to global climate patterns.\nRecent Areas of Interest:\n\nForest disturbance and recovery\nBiodiversity monitoring\nEcosystem services valuation\nSustainable forest management\n\n\n\n\nFollow developments in open data initiatives, reproducible research practices, and collaborative platforms that are transforming environmental science.\nRecent Areas of Interest:\n\nCloud-based analysis platforms\nOpen-source tools and software\nData sharing initiatives\nReproducible workflows\n\n\n\n\n\n\n\nScientific Journals I Follow:\n\nRemote Sensing of Environment\nGlobal Change Biology\nForest Ecology and Management\nJournal of Geophysical Research: Biogeosciences\nEnvironmental Research Letters\n\nUseful Platforms:\n\nGoogle Earth Engine\nNASA Earthdata\nCopernicus Open Access Hub\nGlobal Forest Watch\n\n\nThis page will be updated periodically with noteworthy publications, announcements, and developments in the field."
+  },
+  {
+    "objectID": "science-news.html#latest-updates-from-remote-sensing-and-forest-science",
+    "href": "science-news.html#latest-updates-from-remote-sensing-and-forest-science",
+    "title": "Science News",
+    "section": "",
+    "text": "This page highlights recent developments and interesting findings in remote sensing, forest ecology, and climate science relevant to my research interests.\n\n\n\n\n\n\nStay updated on the latest advances in forest carbon quantification, satellite-based monitoring systems, and their applications in climate change mitigation strategies.\nRecent Areas of Interest:\n\nSatellite-based carbon monitoring systems\nForest carbon stock assessments\nClimate policy and carbon markets\nVerification and validation methods\n\n\n\n\nExplore cutting-edge developments in remote sensing platforms and methodologies, from LiDAR innovations to new satellite missions and analytical approaches.\nRecent Areas of Interest:\n\nMulti-sensor fusion techniques\nTime-series analysis methods\nMachine learning in remote sensing\nNew satellite missions and capabilities\n\n\n\n\nDiscover new insights into how forests grow, change, and respond to environmental stressors, from local management practices to global climate patterns.\nRecent Areas of Interest:\n\nForest disturbance and recovery\nBiodiversity monitoring\nEcosystem services valuation\nSustainable forest management\n\n\n\n\nFollow developments in open data initiatives, reproducible research practices, and collaborative platforms that are transforming environmental science.\nRecent Areas of Interest:\n\nCloud-based analysis platforms\nOpen-source tools and software\nData sharing initiatives\nReproducible workflows\n\n\n\n\n\n\n\nScientific Journals I Follow:\n\nRemote Sensing of Environment\nGlobal Change Biology\nForest Ecology and Management\nJournal of Geophysical Research: Biogeosciences\nEnvironmental Research Letters\n\nUseful Platforms:\n\nGoogle Earth Engine\nNASA Earthdata\nCopernicus Open Access Hub\nGlobal Forest Watch\n\n\nThis page will be updated periodically with noteworthy publications, announcements, and developments in the field."
+  },
+  {
+    "objectID": "index.html#remote-sensing-scientist",
+    "href": "index.html#remote-sensing-scientist",
+    "title": "Welcome",
+    "section": "",
+    "text": "I specialize in mapping and monitoring forest ecosystems using advanced remote sensing technologies and geospatial analysis. My work focuses on understanding forest dynamics, carbon cycling, and ecosystem responses to environmental change.\n\n\n\nForest Ecosystem Monitoring: Leveraging satellite imagery and LiDAR data to track forest structure and composition\nCarbon Science: Quantifying forest carbon stocks and understanding carbon dynamics in terrestrial ecosystems\nGeospatial Analysis: Developing innovative methods for analyzing large-scale environmental datasets\nClimate Change Impacts: Investigating how forests respond to changing environmental conditions\n\n\n\n\nAs a Remote Sensing Scientist at Renoster Systems and Research Assistant at Oregon State University, I develop cutting-edge approaches for monitoring forest ecosystems at scale. I also provide consulting services through Spatial Informatics Group and Pachama Inc., applying remote sensing expertise to real-world conservation and climate challenges."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Hobby Projects",
+    "section": "",
+    "text": "Here are some hobby projects I’ve worked on in my spare time.\n\n\n\nA Python port of the c-factor BRDF logic for Google Earth Engine. This algorithm corrects Landsat reflectance data to nadir BRDF-adjusted reflectance (NBAR) using fixed, MODIS-derived BRDF spectral model parameters.\nThe Problem: The edges of a Landsat scene have slightly different orientations with respect to the sensors, resulting in “striping” along the WRS2 scene boundaries. This algorithm “flattens” each scene so you can obtain large-area, wall-to-wall composites without variation along the scene boundaries.\nMy Contribution: This is the first publicly available Python port of the c-factor BRDF algorithm. I created a one-to-one comparison with the original JavaScript implementation and verified that this logic produces identical results.\nThe c-factor BRDF algorithm was originally developed by Roy et al. (2016) and implemented in JavaScript by Daniel Wiell and Erik Lindquist of the United Nations Food and Agriculture Organization.\nLinks: - GitHub Repository - Comparison of JS vs Python Outputs - Original JavaScript Implementation\nReference: Roy, D. P., Zhang, H. K., Ju, J., Gomez-Dans, J. L., Lewis, P. E., Schaaf, C. B., … & Kovalskyy, V. (2016). A general method to normalize Landsat reflectance data to nadir BRDF adjusted reflectance. Remote Sensing of Environment, 176, 255-271.\nTechnologies: Python, Google Earth Engine, Landsat, MODIS\n\n\n\n\nFor a complete list of my academic publications, please visit my Google Scholar profile.\n\nMore projects coming soon! Feel free to check out my GitHub for additional code and collaborations."
+  },
+  {
+    "objectID": "projects.html#personal-coding-projects",
+    "href": "projects.html#personal-coding-projects",
+    "title": "Hobby Projects",
+    "section": "",
+    "text": "Here are some hobby projects I’ve worked on in my spare time.\n\n\n\nA Python port of the c-factor BRDF logic for Google Earth Engine. This algorithm corrects Landsat reflectance data to nadir BRDF-adjusted reflectance (NBAR) using fixed, MODIS-derived BRDF spectral model parameters.\nThe Problem: The edges of a Landsat scene have slightly different orientations with respect to the sensors, resulting in “striping” along the WRS2 scene boundaries. This algorithm “flattens” each scene so you can obtain large-area, wall-to-wall composites without variation along the scene boundaries.\nMy Contribution: This is the first publicly available Python port of the c-factor BRDF algorithm. I created a one-to-one comparison with the original JavaScript implementation and verified that this logic produces identical results.\nThe c-factor BRDF algorithm was originally developed by Roy et al. (2016) and implemented in JavaScript by Daniel Wiell and Erik Lindquist of the United Nations Food and Agriculture Organization.\nLinks: - GitHub Repository - Comparison of JS vs Python Outputs - Original JavaScript Implementation\nReference: Roy, D. P., Zhang, H. K., Ju, J., Gomez-Dans, J. L., Lewis, P. E., Schaaf, C. B., … & Kovalskyy, V. (2016). A general method to normalize Landsat reflectance data to nadir BRDF adjusted reflectance. Remote Sensing of Environment, 176, 255-271.\nTechnologies: Python, Google Earth Engine, Landsat, MODIS\n\n\n\n\nFor a complete list of my academic publications, please visit my Google Scholar profile.\n\nMore projects coming soon! Feel free to check out my GitHub for additional code and collaborations."
   }
 ]
