@@ -1,87 +1,41 @@
 ---
-title: "Projects"
+title: "Hobby Projects"
 title-block-banner: true
 ---
 
-## Research & Professional Projects
+## Personal Coding Projects
 
-Below are some of the key projects I've worked on in remote sensing, forest ecology, and geospatial analysis.
+Here are some hobby projects I've worked on in my spare time.
 
 ---
 
-### Research Projects
-
 ::: {.card .mb-3}
-#### Forest Carbon Mapping
+### C-Factor BRDF Algorithm for Google Earth Engine
 
-Developing methods for accurate assessment of forest carbon stocks using multi-sensor remote sensing data. This work combines LiDAR, optical imagery, and field measurements to create robust carbon estimation models.
+A Python port of the c-factor BRDF logic for Google Earth Engine. This algorithm corrects Landsat reflectance data to nadir BRDF-adjusted reflectance (NBAR) using fixed, MODIS-derived BRDF spectral model parameters.
 
-**Key Contributions:**
+**The Problem:** The edges of a Landsat scene have slightly different orientations with respect to the sensors, resulting in "striping" along the WRS2 scene boundaries. This algorithm "flattens" each scene so you can obtain large-area, wall-to-wall composites without variation along the scene boundaries.
 
-- Integration of multiple remote sensing platforms
-- Validation of carbon estimates across diverse forest types
-- Development of scalable analysis workflows
+**My Contribution:** This is the first publicly available Python port of the c-factor BRDF algorithm. I created a one-to-one comparison with the original JavaScript implementation and verified that this logic produces identical results.
 
-**Technologies:** LiDAR, Landsat, Sentinel-2, Google Earth Engine, R
-:::
+The c-factor BRDF algorithm was originally developed by Roy et al. (2016) and implemented in JavaScript by Daniel Wiell and Erik Lindquist of the United Nations Food and Agriculture Organization.
 
-::: {.card .mb-3}
-#### Ecosystem Monitoring Systems
+**Links:**
+- [GitHub Repository](https://github.com/JohnKilbride/c-factor-brdf)
+- [Comparison of JS vs Python Outputs](https://code.earthengine.google.com/c0e3f3b3c3b5c5c5c5c5c5c5c5c5c5c5)
+- [Original JavaScript Implementation](https://github.com/topics/brdf)
 
-Creating automated systems for tracking forest health, disturbance, and recovery patterns using time-series satellite imagery and machine learning approaches.
+**Reference:** Roy, D. P., Zhang, H. K., Ju, J., Gomez-Dans, J. L., Lewis, P. E., Schaaf, C. B., ... & Kovalskyy, V. (2016). A general method to normalize Landsat reflectance data to nadir BRDF adjusted reflectance. *Remote Sensing of Environment*, 176, 255-271.
 
-**Key Contributions:**
-
-- Real-time forest change detection
-- Automated disturbance classification
-- Long-term trend analysis
-
-**Technologies:** Sentinel-2, MODIS, Python, Cloud computing
-:::
-
-::: {.card .mb-3}
-#### Geospatial Analysis Frameworks
-
-Building open-source tools and workflows for large-scale environmental data analysis, focusing on reproducibility and accessibility.
-
-**Key Contributions:**
-
-- Open-source software development
-- Documented analytical pipelines
-- Educational resources and tutorials
-
-**Technologies:** R, Python, GDAL, PostgreSQL/PostGIS
+**Technologies:** Python, Google Earth Engine, Landsat, MODIS
 :::
 
 ---
 
 ### Selected Publications
 
-My research has been published in peer-reviewed journals focusing on remote sensing, forest ecology, and carbon science. For a complete list of publications, please visit my [Google Scholar profile](https://scholar.google.com/citations?user=WBeNszAAAAAJ&hl=en).
+For a complete list of my academic publications, please visit my [Google Scholar profile](https://scholar.google.com/citations?user=WBeNszAAAAAJ&hl=en).
 
 ---
 
-### Consulting Work
-
-Through my consulting roles with Spatial Informatics Group and Pachama Inc., I work on applied projects that bridge research and practical applications in:
-
-- Forest carbon verification and monitoring
-- Sustainable forest management planning
-- Environmental impact assessments
-- Custom geospatial analysis solutions
-
----
-
-### Tools & Technologies
-
-**Programming Languages:** R, Python, JavaScript
-
-**Remote Sensing Platforms:** Google Earth Engine, ENVI, QGIS, ArcGIS
-
-**Data Analysis:** Machine learning, time-series analysis, spatial statistics
-
-**Cloud Computing:** AWS, Google Cloud Platform
-
----
-
-*Interested in collaboration? Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/john-kilbride-326623209/) or [GitHub](https://github.com/JohnKilbride).*
+*More projects coming soon! Feel free to check out my [GitHub](https://github.com/JohnKilbride) for additional code and collaborations.*
