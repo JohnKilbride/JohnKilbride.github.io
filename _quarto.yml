@@ -11,7 +11,7 @@ website:
       - href: science-news.qmd
         text: Science News
       - href: projects.qmd
-        text: Projects
+        text: Hobby Projects
       - href: about.qmd
         text: About
     right:
